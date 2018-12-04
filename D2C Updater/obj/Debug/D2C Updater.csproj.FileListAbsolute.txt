@@ -1,0 +1,14 @@
+C:\D2C_Updater\D2C Updater\D2C Updater\bin\Debug\Newtonsoft.Json.dll
+C:\D2C_Updater\D2C Updater\D2C Updater\bin\Debug\Newtonsoft.Json.pdb
+C:\D2C_Updater\D2C Updater\D2C Updater\bin\Debug\Newtonsoft.Json.xml
+C:\D2C_Updater\D2C Updater\D2C Updater\obj\Debug\D2C Updater.csprojAssemblyReference.cache
+C:\D2C_Updater\D2C Updater\D2C Updater\obj\Debug\D2C_Updater.Form1.resources
+C:\D2C_Updater\D2C Updater\D2C Updater\obj\Debug\D2C_Updater.Properties.Resources.resources
+C:\D2C_Updater\D2C Updater\D2C Updater\obj\Debug\D2C Updater.csproj.GenerateResource.cache
+C:\D2C_Updater\D2C Updater\D2C Updater\obj\Debug\D2C Updater.csproj.CoreCompileInputs.cache
+C:\D2C_Updater\D2C Updater\D2C Updater\obj\Debug\D2C Updater.csproj.CopyComplete
+C:\D2C_Updater\D2C Updater\D2C Updater\bin\Debug\Artifact Helper.exe.config
+C:\D2C_Updater\D2C Updater\D2C Updater\bin\Debug\Artifact Helper.exe
+C:\D2C_Updater\D2C Updater\D2C Updater\bin\Debug\Artifact Helper.pdb
+C:\D2C_Updater\D2C Updater\D2C Updater\obj\Debug\Artifact Helper.exe
+C:\D2C_Updater\D2C Updater\D2C Updater\obj\Debug\Artifact Helper.pdb
